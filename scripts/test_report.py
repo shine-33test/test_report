@@ -10,7 +10,7 @@ class TestReport:
         assert 0
     def test_login5(self):
         assert 0
-	def test_login6(self):
+    def test_login6(self):
         assert 0
     def test_login7(self):
         assert 0
